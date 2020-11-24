@@ -1,6 +1,6 @@
 # Nonogram
 
-![Nonogram](src\nonogram.png)
+![Nonogram](src/nonogram.png)
 
 A single player logic game involving using the row and column clue to lead to the desired pattern
 
